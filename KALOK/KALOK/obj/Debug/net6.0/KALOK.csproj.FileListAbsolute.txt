@@ -1,0 +1,15 @@
+C:\Users\Vigil\source\repos\KALOK\KALOK\bin\Debug\net6.0\KALOK.exe
+C:\Users\Vigil\source\repos\KALOK\KALOK\bin\Debug\net6.0\KALOK.deps.json
+C:\Users\Vigil\source\repos\KALOK\KALOK\bin\Debug\net6.0\KALOK.runtimeconfig.json
+C:\Users\Vigil\source\repos\KALOK\KALOK\bin\Debug\net6.0\KALOK.dll
+C:\Users\Vigil\source\repos\KALOK\KALOK\bin\Debug\net6.0\KALOK.pdb
+C:\Users\Vigil\source\repos\KALOK\KALOK\obj\Debug\net6.0\KALOK.csproj.AssemblyReference.cache
+C:\Users\Vigil\source\repos\KALOK\KALOK\obj\Debug\net6.0\KALOK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vigil\source\repos\KALOK\KALOK\obj\Debug\net6.0\KALOK.AssemblyInfoInputs.cache
+C:\Users\Vigil\source\repos\KALOK\KALOK\obj\Debug\net6.0\KALOK.AssemblyInfo.cs
+C:\Users\Vigil\source\repos\KALOK\KALOK\obj\Debug\net6.0\KALOK.csproj.CoreCompileInputs.cache
+C:\Users\Vigil\source\repos\KALOK\KALOK\obj\Debug\net6.0\KALOK.dll
+C:\Users\Vigil\source\repos\KALOK\KALOK\obj\Debug\net6.0\refint\KALOK.dll
+C:\Users\Vigil\source\repos\KALOK\KALOK\obj\Debug\net6.0\KALOK.pdb
+C:\Users\Vigil\source\repos\KALOK\KALOK\obj\Debug\net6.0\KALOK.genruntimeconfig.cache
+C:\Users\Vigil\source\repos\KALOK\KALOK\obj\Debug\net6.0\ref\KALOK.dll
