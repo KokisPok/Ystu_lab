@@ -37,3 +37,7 @@ else if (oper == '/')
     Console.WriteLine("Деление " + a + " на " + b + " равно " + total + ".");
 }
 
+else
+{
+    Console.WriteLine("Неизвестный оператор.");
+}
