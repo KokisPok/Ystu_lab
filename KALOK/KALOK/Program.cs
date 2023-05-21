@@ -33,7 +33,15 @@ else if (oper == '*')
 
 else if (oper == '/')
 {
-    total = a / b;
-    Console.WriteLine("Деление " + a + " на " + b + " равно " + total + ".");
+   if (b == 0)
+    {
+        Console.WriteLine("Деление невозможно");
+    }
+    else
+    {
+        total = a / b;
+
+        Console.WriteLine("Деление " + a + " на " + b + " равно " + total + ".");
+    }
 }
 
